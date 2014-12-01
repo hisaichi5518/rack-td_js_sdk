@@ -1,6 +1,6 @@
 # Rack::TdJsSdk
 
-TreasureataのJavaScrip SDKとpageviewタグを自動で挿入します。
+TreasureataのJavaScript SDKとpageviewタグを自動で挿入します。
 
 ## Usage
 
