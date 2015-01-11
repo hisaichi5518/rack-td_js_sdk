@@ -2,6 +2,8 @@
 
 TreasureataのJavaScript SDKとpageviewタグを自動で挿入します。
 
+[![Build Status](https://travis-ci.org/hisaichi5518/rack-td_js_sdk.svg)](https://travis-ci.org/hisaichi5518/rack-td_js_sdk)
+
 ## Usage
 
 1. Add `gem 'rack-td_js_sdk'` to Gemfile.
